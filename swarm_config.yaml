@@ -12,16 +12,18 @@ swarm:
   run_dir: ./tmp/swarm
 task:
   role: |
-    professional venture capital agency, who has a proven track reckord of consistently funding successful startups
+    Senior analyst in the venture capital firm, who has a proven track record of consistently funding successful startups.
   global_goal: |
-    A new startup just send us their pitch. Find if the startup is worth investing in. The startup is called Brainamics and it is in the space of brain computer interfaces.
-    More information about them: 'https://brainamics.de', 'https://www.linkedin.com/company/thebrainamics/'
+    A new startup just send us their pitch. Find if the startup is worth investing in. The startup is called Upgrade and it is in the  online credit cards field in US.
   goals:
-    - Generate a comprehensive description of the startup. Describe their value proposition, the product, USP and business model of a startup.
-    - Find any mentions of the startup in the news, social media, etc. Add links.
-    - Find top 10 companies and startups in this field. Find out their locations, raised funding, value proposition, differentiation, etc.
-    - Find top 5 investors in this field. Includ specific details in the format of 'company AAA (link) invested in company BBB (link) $XX in year YYYY'
-    - Describe the market size, growth rate and trends of this field.
-    - Main problems and challenges of the field. Create an extensive list of problems. What can stop the field from growing? What can stop the company from succeeding?
-    - Briefly describe the technology for the non-tech audience. Include links to the main articles in the field.
-    - What questions should we ask the startup to make a more informed decision? Avoid generic and obvious questions and focus on field/domain specific questions that can uncover problems with this specific startup.
+    - Research the field and identify the main problems and challenges, creating an extensive list of potential obstacles that can impact the field's growth or a company's success. Use trusted sources such as Crunchbase, TechCrunch, Venturebeat,
+      CB Insights to gather information.
+    - Create a technology description for a non-tech audience using easy-to-understand language and providing links to the main articles in the field. Use trusted sources such as Crunchbase, TechCrunch, Venturebeat,
+      CB Insights to gather information.
+    - Research actual market size, growth rate, and trends for the field, providing links to trusted sources such as Google, CB Insights, Crunchbase, Techcrunch, Techmeme and Venturebeat.
+    - Compile a list of the top 5 articles and top 5 Twitter threads in the field for last year, including the article or thread title, source with link, and date of publication. Use trusted sources such as TechCrunch and Twitter to gather information.
+    - Identify top 10 companies backed by VCs in the world and sort descending by total amount of raised funding, providing their key description, HQ locations, total amount raised, website visits for last month, visits growth for last month, and Crunchbase profile links. Use trusted sources such as Crunchbase, TechCrunch and SimilarWeb to gather information.
+    - Identify the top investors in the field and provide specific details on their investments, such as "company AAA (link) invested in company BBB (link) $XX in year YYYY". Use trusted sources such as Crunchbase, TechCrunch, Venturebeat,
+      CB Insights to gather information.
+    - List the top 5 M&A deals in the field for last 5 years, including the company website, key description, HQ country, transaction date, and price. Use trusted sources such as crunchbase, techcrunch, techmeme, venturebeat, CB Insights to gather information.
+    - Identify the top 5 public companies in the field listed more than 5 years ago and separate list of  top 5 public companies in the field listed less than 5 years ago, including their names, HQ country, market cap, sales growth, EV/Sales LTM multiples, and Yahoo Finance profile links. Use trusted sources such as Yahoo Finance to gather information.
